@@ -5,5 +5,3 @@
 - reload config command
 - add shell command to set verbose flag
 - document ROOT & NUMCPU environment variable
-
-(test edit for bacill&mu;s webhook...)
